@@ -10,6 +10,10 @@ try{
   const page=await browser.newPage({viewport:{width,height:1000},reducedMotion:'reduce'});
   page.on('pageerror',e=>problems.push(e.message));
   await page.goto(base);await page.evaluate(()=>document.fonts.ready);
+  const banner=page.locator('.hero-banner img');
+  assert.equal(await banner.count(),1,'hero banner present');
+  assert.equal(await banner.evaluate(e=>e.complete&&e.naturalWidth>0),true,'hero image loaded');
+  assert.equal(await page.locator('.button-arrow').evaluateAll(items=>items.every(e=>e.tagName.toLowerCase()==='svg')),true,'SVG arrows');
   assert.equal(await page.locator('h1').innerText(),'Mentorship for those who lead\nin business, in community and in life.');
   assert.equal(await page.locator('#stats .stat').count(),1);
   assert.equal(await page.locator('#form-fields').evaluate(e=>e.disabled),true);

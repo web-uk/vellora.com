@@ -58,9 +58,6 @@
   document.querySelectorAll('[data-context]').forEach(a=>a.addEventListener('click',()=>{
     const select=document.getElementById('context');if(select)select.value=a.dataset.context;
   }));
-  if(config.portrait&&config.portrait!=='assets/jesiel.jpg')document.querySelectorAll('[data-portrait]').forEach(p=>{
-    p.querySelectorAll('source').forEach(s=>s.remove());const img=p.querySelector('img');img.removeAttribute('srcset');img.removeAttribute('sizes');img.src=config.portrait;
-  });
   if(config.testimonialsEnabled&&Array.isArray(config.testimonials)&&config.testimonials.length){
     const section=document.getElementById('testimonials');if(section){section.hidden=false;section.className='section';const container=node('div',undefined,'container');config.testimonials.forEach(t=>{if(!t.quote||!t.name||!t.context)return;const q=node('blockquote');q.append(node('p',t.quote),node('cite',`${t.name} · ${t.context}`));container.append(q)});section.replaceChildren(container);if(!container.children.length)section.hidden=true;}
   }

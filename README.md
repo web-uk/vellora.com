@@ -4,18 +4,24 @@ Premium boutique mentoring website for Jesiel Machado. Static HTML/CSS/vanilla J
 
 ## Short changelog — boutique redesign
 
-- Rebuilt the layout around an arched hero portrait, circular About portrait, standalone statement, numbered mentoring steps and compact horizontal formats.
+- Rebuilt the layout with a standalone statement, numbered mentoring steps, compact horizontal formats and first-person About copy.
 - Added a custom abstract Champagne symbol, a 17px/16px body scale, larger buttons and restrained reveal/hover motion.
 - Rewrote both languages in Jesiel’s first person; added illustrative audience situations and card-to-form selection.
 - Replaced adjective proof items with config-driven verified statistics. Kept testimonials and contact channels gated.
 - Generated meaningful static English HTML, self-hosted licensed fonts, and added responsive image and photo-based sharing-image scripts.
 
-**Pending asset:** `assets/jesiel.jpg` has not been supplied as a file in this checkout or GitHub repository. The inline chat image is visible as a reference but cannot be retrieved as a local source file. The portrait derivatives, final `assets/og.png` and photographic screenshots must be generated from that authorised source before this redesign is released.
+## Latest update — compact layout and new hero
+
+- Replaced the discarded individual-portrait layout with the supplied landscape hero (`assets/Hero.jpg.png`). Original retained; optimised JPG/WebP sizes generated for the website.
+- Desktop uses the banner behind the copy; mobile shows the whole image above the copy to keep the faces visible.
+- Replaced arrow characters with inline SVGs and FAQ plus/minus glyphs with CSS shapes, preventing emoji substitution.
+- Reduced section, card and list spacing; removed the empty About portrait area.
+- Rendered the 1200×630 sharing card with the new image and refreshed the desktop/mobile screenshots.
 
 ## Editing
 
 - Copy: `content/en.json` and `content/pt.json`.
-- Contacts, verified stats and authorised portrait: `assets/config.js`.
+- Contacts, verified stats and authorised hero: `assets/config.js`.
 - Design: `assets/style.css`; static HTML composition: `scripts/build.mjs`.
 - After editing English copy, run `npm run build` and commit the generated `index.html` and `privacy.html`. Visitors receive real English content without JavaScript. JavaScript switches text when a language is chosen and configures interactions.
 - `stats` accepts `{value, label}` entries. Each can be a string or `{en, pt}`. Empty entries are hidden; an empty array hides the whole band. Never add unverified statistics.
@@ -23,10 +29,10 @@ Premium boutique mentoring website for Jesiel Machado. Static HTML/CSS/vanilla J
 
 ## Photography and sharing image
 
-1. Place the authorised original at `assets/jesiel.jpg`.
+1. Keep the supplied original at `assets/Hero.jpg.png` (a PNG despite its double extension).
 2. Run `npm ci --cache /workspace/work/npm-cache` (a writable cache directory is required in this workspace).
-3. Run `npm run build`, then `npm run images`. The latter creates 480/800/1200px WebP and JPG derivatives and updates intrinsic image dimensions.
-4. Run `npm run og`. This renders `templates/og.html` to a 1200×630 PNG using the actual photo, mark, wordmark and tagline. It fails if the authorised photo is missing.
+3. Run `npm run images`, then `npm run build`. The image script creates `assets/hero.jpg` and 640/1280/1920px WebP/JPG derivatives.
+4. Run `npm run og`. This renders `templates/og.html` to a 1200×630 PNG using the actual photo, mark, wordmark and tagline. It uses the supplied banner after image preparation. If no hero asset exists, the site build safely omits the image and renders a teal hero.
 5. Commit all source and generated assets. Do not generate substitute people or use an unauthorised portrait.
 
 The browser scripts use `/usr/bin/chromium`; set `CHROMIUM_PATH` to another installed Chromium binary when needed. No browser is installed by these scripts. The browser-facing website has no package dependency or build service requirement.
@@ -56,7 +62,6 @@ For Netlify, import the repository, use no build command and `.` as the publish 
 
 ## Still needed from the client
 
-- Authorised `assets/jesiel.jpg` source file (shown inline in chat but absent from the file system).
 - Official email, international WhatsApp number and Formspree endpoint.
 - Legal operator and completed privacy/data-handling details.
 - Approval of the first-person biography, service formats and languages offered.
