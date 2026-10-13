@@ -25,3 +25,5 @@ Importar o repositório, deixar o build command vazio e usar `.` como publish di
 
 ## Privacidade e assets
 Sem analytics ou cookies publicitários. Preferência de idioma em localStorage. Google Fonts fornece Cormorant Garamond e Inter; existem fallbacks locais. Para eliminar solicitações ao Google, hospedar as fontes localmente e substituir o @import. Não foram inventados contatos, depoimentos ou foto do mentor.
+
+Se a primeira execução falhar com `Resource not accessible by integration`, habilitar Pages em Settings → Pages → Source → GitHub Actions. Depois, em Actions → Publish Vellora Connect, selecionar Run workflow.
