@@ -1,0 +1,194 @@
+{
+  "nav": [
+    "Para quem",
+    "Como trabalhamos",
+    "Sobre Jesiel",
+    "Contato"
+  ],
+  "eyebrow": "EXPERIÊNCIA. PERSPECTIVA. CONEXÃO.",
+  "hero": "Mentoria para quem lidera",
+  "heroItalic": "nos negócios, na comunidade e na vida.",
+  "intro": "Quase 30 anos acompanhando líderes, empresários e famílias ao redor do mundo para crescer com clareza e propósito.",
+  "cta": "Agende uma conversa inicial",
+  "free": "Uma primeira conversa. 30 minutos. Sem compromisso.",
+  "scroll": "EXPLORE AS POSSIBILIDADES",
+  "portrait": "Um espaço de escuta para uma conversa com significado.",
+  "portraitNote": "Jesiel Machado · Fundador e mentor",
+  "proof": [
+    [
+      "Quase 30",
+      "anos acompanhando pessoas"
+    ],
+    [
+      "Internacional",
+      "experiência e perspectiva"
+    ],
+    [
+      "Humana",
+      "a essência da liderança"
+    ]
+  ],
+  "audienceLabel": "01 / PARA QUEM",
+  "audienceTitle": "Caminhos diferentes.",
+  "audienceItalic": "A mesma busca por clareza.",
+  "audienceIntro": "Às vezes, o próximo passo fica mais claro quando alguém experiente caminha ao seu lado.",
+  "audiences": [
+    [
+      "Líderes",
+      "Lidere com clareza, firmeza e humanidade.",
+      "Mentoria de liderança · Mentoria internacional"
+    ],
+    [
+      "Empresários e organizações",
+      "Conversas melhores. Decisões mais conscientes.",
+      "Mentoria para empresários · Workshops · Conversas difíceis"
+    ],
+    [
+      "Pessoas e famílias",
+      "Atravesse mudanças com direção.",
+      "Transições de vida · Mentoria pessoal · Conversas importantes"
+    ]
+  ],
+  "approachLabel": "02 / COMO TRABALHAMOS",
+  "approachTitle": "Tudo começa com a escuta.",
+  "approachIntro": "Uma parceria cuidadosa, construída a partir do seu momento e do que importa para você.",
+  "steps": [
+    [
+      "Uma primeira conversa",
+      "Uma conversa inicial gratuita de 30 minutos para entender seu momento e explorar se a mentoria faz sentido para você."
+    ],
+    [
+      "Um plano com propósito",
+      "Juntos, definimos o foco, o formato e o ritmo da sua mentoria."
+    ],
+    [
+      "Acompanhamento no caminho",
+      "Espaço para refletir, explorar decisões e construir clareza enquanto você coloca seus próximos passos em prática."
+    ]
+  ],
+  "formatsLabel": "FORMATOS DE MENTORIA",
+  "formatsTitle": "O espaço certo. O ritmo certo.",
+  "formats": [
+    [
+      "01",
+      "Mentoria individual",
+      "Atenção pessoal às suas perguntas, decisões e desenvolvimento."
+    ],
+    [
+      "02",
+      "Programas de 3 a 6 meses",
+      "Uma relação contínua de mentoria, com tempo para refletir e crescer."
+    ],
+    [
+      "03",
+      "Workshops e palestras",
+      "Conversas significativas para equipes, organizações e eventos."
+    ]
+  ],
+  "location": "Online, onde você estiver. Presencialmente, em Londres.",
+  "aboutLabel": "03 / CONHEÇA SEU MENTOR",
+  "aboutTitle": "Experiência com pessoas.",
+  "aboutItalic": "Perspectiva para seu próximo capítulo.",
+  "aboutName": "Jesiel Machado",
+  "aboutRole": "FUNDADOR E MENTOR",
+  "aboutText": "Há quase 30 anos, Jesiel acompanha líderes, empresários e famílias em decisões, relações e transições de vida. Brasileiro radicado na Inglaterra, traz experiência internacional e intercultural para uma relação de mentoria pessoal e cuidadosa.",
+  "aboutText2": "Seu trabalho se apoia na escuta, na compreensão das pessoas e no apoio para pensar os próximos passos com mais clareza e propósito.",
+  "pastor": "Jesiel também atua como pastor. A Vellora Connect oferece mentoria profissional de forma independente de qualquer igreja.",
+  "values": [
+    [
+      "Experiência",
+      "Perspectiva construída ao longo de quase três décadas."
+    ],
+    [
+      "Escuta",
+      "Compreender antes de orientar."
+    ],
+    [
+      "Discrição",
+      "Uma relação baseada na confidencialidade."
+    ]
+  ],
+  "faqLabel": "04 / SUAS PERGUNTAS",
+  "faqTitle": "Um pouco mais de clareza.",
+  "faqs": [
+    [
+      "É terapia?",
+      "Não. É mentoria: um espaço de reflexão sobre liderança, decisões e transições de vida. Quando há necessidade de apoio especializado, orientamos a busca por um profissional qualificado."
+    ],
+    [
+      "É confidencial?",
+      "A confidencialidade é central na relação de mentoria. Seu alcance e eventuais exceções legais ou de proteção são acordados antes do início."
+    ],
+    [
+      "Como funciona a primeira conversa?",
+      "É uma conversa gratuita de 30 minutos para entender o que trouxe você até aqui, responder suas perguntas e explorar o próximo passo. Não há compromisso de continuidade."
+    ],
+    [
+      "Podemos trabalhar online?",
+      "Sim. As sessões estão disponíveis online, com formatos presenciais em Londres combinados previamente."
+    ],
+    [
+      "Para quem é a mentoria?",
+      "Líderes, empresários, profissionais, pessoas e famílias que buscam perspectiva sobre decisões, relações ou uma nova fase da vida."
+    ]
+  ],
+  "contactLabel": "05 / VAMOS CONVERSAR",
+  "contactTitle": "Seu próximo capítulo começa",
+  "contactItalic": "com uma conversa.",
+  "contactIntro": "Conte um pouco sobre você e o que gostaria de explorar.",
+  "contactPending": "Estamos preparando os canais de contato. Em breve, você poderá enviar sua mensagem online.",
+  "fields": [
+    "Seu nome",
+    "E-mail",
+    "Telefone (opcional)",
+    "Eu sou…",
+    "O que você gostaria de explorar?"
+  ],
+  "options": [
+    "Selecione",
+    "Líder",
+    "Empresário(a)",
+    "Pessoa ou família",
+    "Organização"
+  ],
+  "consent": "Li a Política de Privacidade e entendo como minha mensagem será tratada.",
+  "send": "Enviar mensagem",
+  "sending": "Enviando…",
+  "success": "Obrigado. Sua mensagem foi enviada.",
+  "failure": "Não foi possível enviar sua mensagem. Tente novamente ou utilize um canal de contato disponível.",
+  "email": "Enviar um e-mail",
+  "whatsapp": "Conversar no WhatsApp",
+  "privacy": "Política de Privacidade",
+  "disclaimer": "A mentoria não substitui acompanhamento médico, psicológico, jurídico ou financeiro.",
+  "back": "Voltar para Vellora Connect",
+  "privacyTitle": "Sua privacidade importa.",
+  "privacyIntro": "Este site apresenta informações sobre a Vellora Connect. Os canais de contato ainda não foram ativados.",
+  "privacySections": [
+    [
+      "Responsável pelos dados",
+      "O operador legal e o contato oficial de privacidade serão publicados aqui antes de habilitarmos as mensagens online."
+    ],
+    [
+      "Informações e finalidade",
+      "Quando habilitado, o formulário solicitará nome, e-mail, telefone opcional, contexto e mensagem para responder ao pedido e conversar sobre mentoria. Evite enviar informações pessoais sensíveis."
+    ],
+    [
+      "Tratamento e prestadores",
+      "Antes de ativar o formulário, o responsável deve confirmar a base legal, a conta do Formspree, as garantias para transferências internacionais e o prazo de retenção. Atualmente, este site não transmite nem armazena mensagens."
+    ],
+    [
+      "Seus direitos",
+      "A legislação britânica pode garantir acesso, correção, exclusão, restrição, oposição ao tratamento e portabilidade dos seus dados. Você pode apresentar uma reclamação ao Information Commissioner’s Office em ico.org.uk. Um contato oficial será adicionado antes do início da coleta."
+    ],
+    [
+      "Cookies e armazenamento",
+      "Não usamos cookies de publicidade ou analytics. A preferência de idioma é salva localmente no navegador. A hospedagem pode processar registros técnicos de acesso conforme seus próprios termos."
+    ],
+    [
+      "Atualizações",
+      "Este aviso deve ser completado com os dados do operador antes da ativação dos contatos. Atualizado em 13 de outubro de 2026."
+    ]
+  ],
+  "metaTitle": "Vellora Connect | Mentoria para quem lidera",
+  "metaDescription": "Mentoria com Jesiel Machado para líderes, empresários e famílias. Quase 30 anos de experiência. Online e em Londres."
+}
