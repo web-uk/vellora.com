@@ -1,142 +1,138 @@
 {
   "nav": [
-    "Who it’s for",
-    "Our approach",
-    "About Jesiel",
+    "Who I work with",
+    "How I work",
+    "About me",
     "Get in touch"
   ],
-  "eyebrow": "EXPERIENCE. PERSPECTIVE. CONNECTION.",
+  "eyebrow": "PERSONAL MENTORING · JESIEL MACHADO",
   "hero": "Mentorship for those who lead",
   "heroItalic": "in business, in community and in life.",
-  "intro": "Nearly 30 years guiding leaders, business owners and families across the world to grow with clarity and purpose.",
-  "cta": "Book a discovery conversation",
+  "intro": "I bring nearly 30 years of experience guiding leaders, business owners and families. Together, we make space for perspective, clarity and your next step.",
+  "cta": "Book a conversation with me",
   "free": "A first conversation. 30 minutes. No obligation.",
-  "scroll": "EXPLORE THE POSSIBILITIES",
-  "portrait": "A considered space for a meaningful conversation.",
-  "portraitNote": "Jesiel Machado · Founder & mentor",
-  "proof": [
-    [
-      "Nearly 30",
-      "years guiding people"
-    ],
-    [
-      "International",
-      "experience & perspective"
-    ],
-    [
-      "Human",
-      "leadership at the centre"
-    ]
-  ],
   "audienceLabel": "01 / WHO I WORK WITH",
-  "audienceTitle": "Different journeys.",
-  "audienceItalic": "A shared need for clarity.",
-  "audienceIntro": "Sometimes the next step becomes clearer when you have someone experienced beside you.",
+  "audienceTitle": "A different starting point. A personal approach.",
+  "audienceIntro": "I work with people navigating responsibility, relationships and change. Find the starting point that feels closest to yours.",
   "audiences": [
-    [
-      "Leaders",
-      "Lead with clarity, conviction and humanity.",
-      "Leadership mentoring · International mentoring"
-    ],
-    [
-      "Business owners & organisations",
-      "Better conversations. More considered decisions.",
-      "Owner mentoring · Team workshops · Difficult conversations"
-    ],
-    [
-      "Individuals & families",
-      "Move through change with a sense of direction.",
-      "Life transitions · Personal mentoring · Conversations that matter"
-    ]
+    {
+      "title": "Leaders",
+      "description": "Lead with conviction and humanity.",
+      "services": "Leadership mentoring · International mentoring",
+      "examples": [
+        "A newly promoted leader finding their footing",
+        "A leader navigating a different culture or country"
+      ],
+      "context": "leader"
+    },
+    {
+      "title": "Business owners & organisations",
+      "description": "Make room for better conversations and considered decisions.",
+      "services": "Owner mentoring · Team workshops · Difficult conversations",
+      "examples": [
+        "Business partners who no longer agree",
+        "A growing team learning to work together"
+      ],
+      "context": "business"
+    },
+    {
+      "title": "Individuals & families",
+      "description": "Find direction through a new chapter.",
+      "services": "Life transitions · Personal mentoring",
+      "examples": [
+        "A family facing a move or a new chapter",
+        "A professional considering a change of direction"
+      ],
+      "context": "individual"
+    }
   ],
-  "approachLabel": "02 / OUR APPROACH",
-  "approachTitle": "It starts with listening.",
-  "approachIntro": "No ready-made answers. A thoughtful partnership, shaped around where you are and what matters to you.",
+  "approachLabel": "02 / HOW I WORK",
+  "approachTitle": "I listen first. We move forward together.",
+  "approachIntro": "Your situation is the starting point. I take time to understand what matters to you, then we shape a mentoring relationship around it.",
   "steps": [
     [
       "A first conversation",
-      "A free, 30-minute discovery conversation to understand your situation and explore whether mentoring is right for you."
+      "We begin with a free, 30-minute conversation. I listen to what brings you here, and we explore whether mentoring is right for you."
     ],
     [
       "A plan with purpose",
-      "Together, we agree on the focus, format and rhythm of your mentoring."
+      "Together, we agree on the focus, format and rhythm of our work."
     ],
     [
       "Support along the way",
-      "Space to reflect, explore decisions and build clarity as you put your next steps into practice."
+      "I offer a space to reflect, consider decisions and turn your next steps into practice."
     ]
   ],
-  "formatsLabel": "WAYS TO WORK TOGETHER",
-  "formatsTitle": "The right space. The right rhythm.",
+  "formatsLabel": "WAYS TO WORK WITH ME",
+  "formatsTitle": "A rhythm that fits your life.",
   "formats": [
     [
       "01",
       "One-to-one mentoring",
-      "Personal attention for your questions, decisions and development."
+      "Personal attention for your questions and decisions."
     ],
     [
       "02",
       "3–6 month programmes",
-      "A sustained mentoring relationship, with time to reflect and grow."
+      "A sustained relationship, with time to reflect and grow."
     ],
     [
       "03",
       "Workshops & talks",
-      "Thoughtful conversations for teams, organisations and events."
+      "Thoughtful conversations for teams and organisations."
     ]
   ],
-  "location": "Online, wherever you are. In person, in London.",
-  "aboutLabel": "03 / MEET YOUR MENTOR",
-  "aboutTitle": "Experience with people.",
-  "aboutItalic": "Perspective for your next chapter.",
+  "location": "I work online, wherever you are, and in person in London.",
+  "aboutLabel": "03 / ABOUT ME",
+  "aboutTitle": "People have always been at the heart of my work.",
   "aboutName": "Jesiel Machado",
   "aboutRole": "FOUNDER & MENTOR",
-  "aboutText": "For nearly 30 years, Jesiel has guided leaders, business owners and families through decisions, relationships and life transitions. A Brazilian based in England, he brings international and intercultural experience to a personal, thoughtful mentoring relationship.",
-  "aboutText2": "His work centres on listening, understanding people and helping them consider what comes next with greater clarity and purpose.",
-  "pastor": "Jesiel also serves as a pastor. Vellora Connect offers professional mentoring independently of any church.",
+  "aboutText": "For nearly 30 years, I have accompanied leaders, business owners and families through decisions, relationships and life transitions. I am Brazilian and based in England, with experience working across countries and cultures.",
+  "aboutText2": "I bring that perspective to a personal mentoring relationship. My work begins with listening: understanding your situation, exploring what matters and helping you consider what comes next.",
+  "pastor": "I also serve as a pastor. My professional mentoring through Vellora Connect is independent of any church.",
   "values": [
     [
       "Experience",
-      "Perspective built over nearly three decades."
+      "I bring perspective built over nearly three decades."
     ],
     [
       "Listening",
-      "Understanding before offering direction."
+      "I seek to understand before offering direction."
     ],
     [
       "Discretion",
-      "A relationship grounded in confidentiality."
+      "I build relationships grounded in confidentiality."
     ]
   ],
   "faqLabel": "04 / YOUR QUESTIONS",
-  "faqTitle": "A little more clarity.",
+  "faqTitle": "Before we begin.",
   "faqs": [
     [
       "Is this therapy?",
-      "No. This is mentoring: a space to reflect on leadership, decisions and life transitions. Where specialist support is needed, we encourage you to work with a qualified professional."
+      "No. I offer mentoring: a space to reflect on leadership, decisions and life transitions. If you need specialist support, I encourage you to work with a qualified professional."
     ],
     [
       "Is it confidential?",
-      "Confidentiality is central to the mentoring relationship. Its scope and any legal or safeguarding exceptions are agreed before we begin."
+      "Confidentiality is central to how I work. We agree on its scope and any legal or safeguarding exceptions before we begin."
     ],
     [
       "How does the first conversation work?",
-      "It is a free, 30-minute conversation to understand what brings you here, answer your questions and explore the right next step. There is no obligation to continue."
+      "We have a free, 30-minute conversation. I listen to what brings you here, answer your questions and explore the next step with you. There is no obligation to continue."
     ],
     [
       "Can we work together online?",
-      "Yes. Sessions are available online, with in-person formats in London arranged by agreement."
+      "Yes. I offer sessions online, with in-person formats in London arranged by agreement."
     ],
     [
       "Who is mentoring for?",
-      "Leaders, business owners, professionals, individuals and families seeking perspective on decisions, relationships or a new phase of life."
+      "I work with leaders, business owners, professionals, individuals and families seeking perspective on decisions, relationships or a new phase of life."
     ]
   ],
   "contactLabel": "05 / LET’S CONNECT",
   "contactTitle": "Your next chapter starts",
   "contactItalic": "with a conversation.",
-  "contactIntro": "Tell us a little about yourself and what is on your mind.",
-  "contactPending": "Contact channels are being prepared. Online enquiries will be available soon.",
+  "contactIntro": "Tell me a little about yourself and what you would like to explore.",
+  "contactPending": "My contact channels are being prepared. Online enquiries will be available soon.",
   "fields": [
     "Your name",
     "Email address",
@@ -154,7 +150,7 @@
   "consent": "I have read the Privacy Policy and understand how my enquiry will be handled.",
   "send": "Send your enquiry",
   "sending": "Sending…",
-  "success": "Thank you. Your enquiry has been sent.",
+  "success": "Thank you. Your enquiry has been sent to me.",
   "failure": "Your enquiry could not be sent. Please try again or use an available contact channel.",
   "email": "Send an email",
   "whatsapp": "Talk on WhatsApp",
@@ -182,7 +178,7 @@
     ],
     [
       "Cookies and storage",
-      "No analytics or advertising cookies are used. Your language preference is stored locally in your browser. The hosting provider may process technical access logs under its own privacy terms. Heading and body fonts are loaded from Google Fonts, which receives technical request information, including your IP address."
+      "No analytics or advertising cookies are used. Your language preference is stored locally in your browser. The hosting provider may process technical access logs under its own privacy terms. All fonts and images are served from this website."
     ],
     [
       "Updates",
@@ -190,5 +186,16 @@
     ]
   ],
   "metaTitle": "Vellora Connect | Mentorship for those who lead",
-  "metaDescription": "Thoughtful mentoring with Jesiel Machado for leaders, business owners and families. Nearly 30 years of experience. Online and in London."
+  "metaDescription": "Personal mentoring with Jesiel Machado for leaders, business owners and families. Nearly 30 years of experience. Online and in London.",
+  "secondary": "How it works",
+  "proofLabel": "EXPERIENCE THAT SHAPES MY WORK",
+  "stats": [
+    {
+      "value": "Nearly 30",
+      "label": "years guiding people"
+    }
+  ],
+  "exampleLabel": "THIS MIGHT BE YOU",
+  "cardCta": "Start a conversation",
+  "statement": "The next step is clearer with someone experienced beside you."
 }
